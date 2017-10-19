@@ -1,0 +1,50 @@
+/*trabajando con toda la pagina*/
+body{/*llamamos al selector tipo etiqueta body*/
+  background-color: black;/*pintamos todo de negro*/
+  padding: 450px;/*relleno de 450px*/
+  margin: 0px;/*margen 0 */
+  padding-top: 0px;/*para que el contenedor llegue hasta el extremo superior */
+}
+
+#contenedorGeneral {/*llamamos al selector atributo id="contenedorGeneral"*/
+  height: 400px;/*altura*/
+  width: 400px;/*ancho*/
+  background-color: red;/*contenedor rojo*/
+  border: 10px solid white;/*un borde de 10px solido de color blanco se genera un colapso de margenes con el segundo contenedor*/
+
+}
+.purple{/*Llamamos al selector clase purple*/
+  height: 200px;
+  width: 200px;
+  background-color: purple;
+  position: relative; /*aplicamos position:relative para mover la caja morada y amarilla de forma descendente  */
+  top: 100px;
+  left:100px;
+}
+.yellow{/*selector clase yellow*/
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+#segundoContenedorGeneral {/*llamamos al selector atributo id="segundoContenedorGeneral"*/
+  height: 400px;
+  width: 400px;
+  background-color: blue;
+  border: 10px solid white;
+  position: relative;
+  top: 193px;
+  right: 10px;
+}
+.black{/*selector clase*/
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
+.green{/*selector clase*/
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  position: relative;
+  left:100px;
+}
