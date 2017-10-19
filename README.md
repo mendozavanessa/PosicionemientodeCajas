@@ -16,4 +16,4 @@ Poner en practica los temas revisados en clase de laboratoria(positioning)
     + css
 + Markdown(README)
 
-![Texto alternativo](img/posicionandoCajas.png)
+![Texto alternativo](https://fotos.subefotos.com/c0a08756744f401530d3eb8bb58c36e3o.png)
